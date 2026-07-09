@@ -1,0 +1,10 @@
+Qué es el login en una aplicación.
+Es el proceso que permite identificar a un usuario para darle acceso en una aplicación. 
+
+Por qué algunas rutas deben estar protegidas.
+Algunas partes de la plataforma deben estar protegidas porque contienen información 
+importante o privada y solo las personas autorizadas pueden acceder a ellas.
+
+Qué tipo de información no debería exponerse públicamente.
+Contraseñas, documentos jurídocs, direcciones, números de telefonos, claves de cuentas bancarias, 
+números de cuentas bancarias.

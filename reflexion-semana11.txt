@@ -1,0 +1,11 @@
+¿Por qué una plataforma tecnológica que promueve participación ciudadana debe tener base de datos, autenticación de usuarios y protección de información?
+
+Una plataforma que promueve la participación ciudadana debe tener una base de datos para guardar la 
+información de las causas y de los apoyos que reciben. También necesita 
+autenticación de usuarios para que cada persona tenga la confianzas de que tiene un acceso seguro 
+y se eviten suplantaciones. Además, debe proteger la información para cuidar los datos 
+de los usuarios, generar confianza y asegurar que solo las personas autorizadas puedan acceder 
+a información privada.
+Una plataforma que no permita acceder sin contraseñas, autenticación y sin registro seguro, 
+no va a funcionar como plataforma comuitaria y la gente no tendrá la confianza de apoyarla ni 
+ayudar con la causa.

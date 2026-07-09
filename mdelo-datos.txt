@@ -1,0 +1,26 @@
+Entidad: Causa
+
+Campos principales: 
+
+-Tipo de identificación
+-Número de dentificación.
+-Nombre de la causa.
+-Descripción de qué trata.
+-Lugar donde se desarrolla
+
+Propósito
+Registrar cada causa con la información necesaria para hacer seguimiento a su desarrollo.
+
+
+
+Entidad: Apoyo
+
+Campos principales:
+Número de identificación.
+La causa que recibió el apoyo.
+La persona que apoyó.
+Lugar donde se desarrolla
+
+Propósito
+levar un registro de las personas que apoyan cada causa y conocer 
+cuánta participación tiene cada una.

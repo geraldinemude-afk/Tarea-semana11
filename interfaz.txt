@@ -1,0 +1,13 @@
+La interfaz tendría un formulario donde las personas puedan 
+crear una nueva causa escribiendo el nombre, una pequeña explicación 
+y el lugar donde se realizará.
+
+También tendría una sección donde se muestren todas las causas 
+disponibles para que cualquier persona pueda leerlas y conocer de qué tratan.
+
+Cada causa tendría un botón de "Apoyar" y un contador que muestre 
+cuántas personas la han apoyado hasta el momento.
+
+La interfaz sería sencilla, fácil de usar y organizada, para que 
+los usuarios encuentren rápidamente la información sin mostrar datos 
+privados de otras personas.
